@@ -2,4 +2,4 @@
 
 ## Laurin's page                     
 
-![](../../../Pictures/passfoto.jpg)
+![](passfoto.jpg)
