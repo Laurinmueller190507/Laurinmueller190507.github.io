@@ -4,6 +4,10 @@
 <img src="passfoto.jpg" width="169" height="233">
 
 
-## Hallo hier ist der Laurin und ich möchte eine Ausbildung zum Fachinformatiker für Anwendungsentwicklung machen. Zurzeut besuche ich die 9. Klasse im M-Zweig.
+## Hallo, mein Name ist Laurin und ich möchte eine Ausbildung zum Fachinformatiker für Anwendungsentwicklung machen. Zur Zeit besuche ich die 9. Klasse im M-Zweig in Fürstenfeldbruck.
 
-## Mit diesen Programmirsprachen habe ich mich schon auseinander gesetzt:
+## Mit diesen Programmiersprachen habe ich mich schon auseinander gesetzt:
+
+- tbd
+- tbd
+- tbd
