@@ -8,6 +8,6 @@
 
 ## Mit diesen Programmiersprachen habe ich mich schon auseinander gesetzt:
 
-- https://github.com/Laurinmueller190507/lucky-numbers-golang
+- [lucky-numbers-projekt](https://github.com/Laurinmueller190507/lucky-numbers-golang)
 - ...
 
