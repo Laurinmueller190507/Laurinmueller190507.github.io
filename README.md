@@ -8,6 +8,6 @@
 
 ## Mit diesen Programmiersprachen habe ich mich schon auseinander gesetzt:
 
-- tbd
-- tbd
-- tbd
+- git@github.com:Laurinmueller190507/lucky-numbers-golang.git
+- ...
+
