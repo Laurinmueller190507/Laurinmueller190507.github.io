@@ -8,7 +8,7 @@
 
 ## Dies sind meine Projekte zu jedem Projekt ein kurzer Satz:
 
-- ### Das ist ein Zahlensystem das Zahlen aussotiert die keine glücklichen Zahlen sind.
-   ### [lucky-numbers-projekt](https://github.com/Laurinmueller190507/lucky-numbers-golang)
+- ### Das ist ein Zahlensystem das Zahlen aussotiert die keine glücklichen Zahlen sind
+  [lucky-numbers-projekt](https://github.com/Laurinmueller190507/lucky-numbers-golang)
 
 
